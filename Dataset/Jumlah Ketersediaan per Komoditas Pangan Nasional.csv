@@ -1,0 +1,85 @@
+no,komoditas,jenis_pangan,level,ketersediaan_per_tahun,satuan,tahun
+1,Beras,pangan nabati,nasional,33827,ton,2017
+2,Jagung,pangan nabati,nasional,276,ton,2017
+3,Kedelai,pangan nabati,nasional,3000,ton,2017
+4,Gula Pasir,pangan nabati,nasional,6260,ton,2017
+5,Minyak Goreng,pangan nabati,nasional,3310,ton,2017
+6,Bawang Merah,pangan nabati,nasional,926,ton,2017
+7,Bawang Putih,pangan nabati,nasional,553,ton,2017
+8,Cabai Besar,pangan nabati,nasional,1195,ton,2017
+9,Cabai Rawit,pangan nabati,nasional,1113,ton,2017
+10,Daging Sapi,pangan hewani,nasional,459,ton,2017
+11,Daging Ayam Ras,pangan hewani,nasional,3126,ton,2017
+12,Telur Ayam Ras,pangan hewani,nasional,4538,ton,2017
+13,Beras,pangan nabati,nasional,34681,ton,2018
+14,Jagung,pangan nabati,nasional,293,ton,2018
+15,Kedelai,pangan nabati,nasional,3038,ton,2018
+16,Gula Pasir,pangan nabati,nasional,6530,ton,2018
+17,Minyak Goreng,pangan nabati,nasional,4237,ton,2018
+18,Bawang Merah,pangan nabati,nasional,950,ton,2018
+19,Bawang Putih,pangan nabati,nasional,557,ton,2018
+20,Cabai Besar,pangan nabati,nasional,1202,ton,2018
+21,Cabai Rawit,pangan nabati,nasional,1289,ton,2018
+22,Daging Sapi,pangan hewani,nasional,511,ton,2018
+23,Daging Ayam Ras,pangan hewani,nasional,3374,ton,2018
+24,Telur Ayam Ras,pangan hewani,nasional,4592,ton,2018
+25,Beras,pangan nabati,nasional,31083,ton,2019
+26,Jagung,pangan nabati,nasional,297,ton,2019
+27,Kedelai,pangan nabati,nasional,2979,ton,2019
+28,Gula Pasir,pangan nabati,nasional,6957,ton,2019
+29,Minyak Goreng,pangan nabati,nasional,2584,ton,2019
+30,Bawang Merah,pangan nabati,nasional,1007,ton,2019
+31,Bawang Putih,pangan nabati,nasional,535,ton,2019
+32,Cabai Besar,pangan nabati,nasional,1229,ton,2019
+33,Cabai Rawit,pangan nabati,nasional,1341,ton,2019
+34,Daging Sapi,pangan hewani,nasional,593,ton,2019
+35,Daging Ayam Ras,pangan hewani,nasional,3633,ton,2019
+36,Telur Ayam Ras,pangan hewani,nasional,4659,ton,2019
+37,Beras,pangan nabati,nasional,31813,ton,2020
+38,Jagung,pangan nabati,nasional,262,ton,2020
+39,Kedelai,pangan nabati,nasional,2659,ton,2020
+40,Gula Pasir,pangan nabati,nasional,6582,ton,2020
+41,Minyak Goreng,pangan nabati,nasional,2705,ton,2020
+42,Bawang Merah,pangan nabati,nasional,1159,ton,2020
+43,Bawang Putih,pangan nabati,nasional,594,ton,2020
+44,Cabai Besar,pangan nabati,nasional,1267,ton,2020
+45,Cabai Rawit,pangan nabati,nasional,1472,ton,2020
+46,Daging Sapi,pangan hewani,nasional,506,ton,2020
+47,Daging Ayam Ras,pangan hewani,nasional,3369,ton,2020
+48,Telur Ayam Ras,pangan hewani,nasional,5038,ton,2020
+49,Beras,pangan nabati,nasional,31056,ton,2021
+50,Jagung,pangan nabati,nasional,264,ton,2021
+51,Kedelai,pangan nabati,nasional,2593,ton,2021
+52,Gula Pasir,pangan nabati,nasional,6823,ton,2021
+53,Minyak Goreng,pangan nabati,nasional,5740,ton,2021
+54,Bawang Merah,pangan nabati,nasional,1284,ton,2021
+55,Bawang Putih,pangan nabati,nasional,518,ton,2021
+56,Cabai Besar,pangan nabati,nasional,1424,ton,2021
+57,Cabai Rawit,pangan nabati,nasional,1353,ton,2021
+58,Daging Sapi,pangan hewani,nasional,545,ton,2021
+59,Daging Ayam Ras,pangan hewani,nasional,3434,ton,2021
+60,Telur Ayam Ras,pangan hewani,nasional,5157,ton,2021
+61,Beras,pangan nabati,nasional,31571,ton,2022
+62,Jagung,pangan nabati,nasional,219,ton,2022
+63,Kedelai,pangan nabati,nasional,2575,ton,2022
+64,Gula Pasir,pangan nabati,nasional,11125,ton,2022
+65,Minyak Goreng,pangan nabati,nasional,5641,ton,2022
+66,Bawang Merah,pangan nabati,nasional,1275,ton,2022
+67,Bawang Putih,pangan nabati,nasional,591,ton,2022
+68,Cabai Besar,pangan nabati,nasional,1500,ton,2022
+69,Cabai Rawit,pangan nabati,nasional,1507,ton,2022
+70,Daging Sapi,pangan hewani,nasional,647,ton,2022
+71,Daging Ayam Ras,pangan hewani,nasional,3537,ton,2022
+72,Telur Ayam Ras,pangan hewani,nasional,5043,ton,2022
+73,Beras,pangan nabati,nasional,32544,ton,2023
+74,Jagung,pangan nabati,nasional,224,ton,2023
+75,Kedelai,pangan nabati,nasional,2579,ton,2023
+76,Gula Pasir,pangan nabati,nasional,5357,ton,2023
+77,Minyak Goreng,pangan nabati,nasional,11435,ton,2023
+78,Bawang Merah,pangan nabati,nasional,1069,ton,2023
+79,Bawang Putih,pangan nabati,nasional,592,ton,2023
+80,Cabai Besar,pangan nabati,nasional,1187,ton,2023
+81,Cabai Rawit,pangan nabati,nasional,1224,ton,2023
+82,Daging Sapi,pangan hewani,nasional,570,ton,2023
+83,Daging Ayam Ras,pangan hewani,nasional,4160,ton,2023
+84,Telur Ayam Ras,pangan hewani,nasional,6119,ton,2023

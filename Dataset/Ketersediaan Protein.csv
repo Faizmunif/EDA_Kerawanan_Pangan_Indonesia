@@ -1,0 +1,198 @@
+No,Wilayah,Nama Provinsi,Tahun,Ketersediaan Protein Nabati,Ketersediaan Protein Hewani,Ketersediaan Protein,Satuan,Keterangan
+1,Nasional,,2018,57.22,25.53,82.75,gram/kap/hari,Angka tetap
+2,Nasional,,2019,55.65,26.65,82.29,gram/kap/hari,Angka tetap
+3,Nasional,,2020,55.34,24.9,80.24,gram/kap/hari,Angka tetap
+4,Nasional,,2021,54.59,26.66,81.26,gram/kap/hari,Angka tetap
+5,Nasional,,2022,49.6,26.24,75.85,gram/kap/hari,Angka tetap
+6,Nasional,,2023,54.95,26.71,81.66,gram/kap/hari,Angka sementara
+7,Nasional,,2024,51.22,23.39,74.61,gram/kap/hari,Angka sangat sementara
+8,Provinsi,Aceh,2019,86.96,21.87,108.83,gram/kap/hari,Angka tetap
+9,Provinsi,Sumatera Utara,2019,79.73,14.62,94.35,gram/kap/hari,Angka tetap
+10,Provinsi,Sumatera Barat,2019,49.95,30.83,80.78,gram/kap/hari,Angka tetap
+11,Provinsi,Riau,2019,55.3,22.89,78.19,gram/kap/hari,Angka tetap
+12,Provinsi,Jambi,2019,50.1,22.49,72.59,gram/kap/hari,Angka tetap
+13,Provinsi,Sumatera Selatan,2019,43.59,29.6,73.19,gram/kap/hari,Angka tetap
+14,Provinsi,Bengkulu,2019,44.6,45.06,89.66,gram/kap/hari,Angka tetap
+15,Provinsi,Lampung,2019,50.38,17,67.38,gram/kap/hari,Angka tetap
+16,Provinsi,Kep Bangka Belitung,2019,55.26,45.7,100.96,gram/kap/hari,Angka tetap
+17,Provinsi,Kep Riau,2019,43.6,65.73,109.33,gram/kap/hari,Angka tetap
+18,Provinsi,DKI Jakarta,2019,98.72,215.74,314.46,gram/kap/hari,Angka tetap
+19,Provinsi,Jawa Barat,2019,73.91,25.6,99.51,gram/kap/hari,Angka tetap
+20,Provinsi,Jawa Tengah,2019,97.84,11.19,109.03,gram/kap/hari,Angka tetap
+21,Provinsi,Jawa Timur,2019,51.66,15.43,67.09,gram/kap/hari,Angka tetap
+22,Provinsi,DI Yogyakarta,2019,74.58,26.89,101.47,gram/kap/hari,Angka tetap
+23,Provinsi,Banten,2019,114.83,23.94,138.77,gram/kap/hari,Angka tetap
+24,Provinsi,Bali,2019,39,24,63,gram/kap/hari,Angka tetap
+25,Provinsi,NTB,2019,142.56,29.05,171.61,gram/kap/hari,Angka tetap
+26,Provinsi,NTT,2019,73.67,17.92,91.59,gram/kap/hari,Angka tetap
+27,Provinsi,Kalimantan Barat,2019,63.98,32.79,96.77,gram/kap/hari,Angka tetap
+28,Provinsi,Kalimantan Tengah,2019,75.45,94,169.45,gram/kap/hari,Angka tetap
+29,Provinsi,Kalimantan Selatan,2019,99.17,15.18,114.35,gram/kap/hari,Angka tetap
+30,Provinsi,Kalimantan Timur,2019,54.71,33.89,88.6,gram/kap/hari,Angka tetap
+31,Provinsi,Kalimantan Utara,2019,51.94,169.15,221.09,gram/kap/hari,Angka tetap
+32,Provinsi,Sulawesi Utara,2019,54.97,43.6,98.57,gram/kap/hari,Angka tetap
+33,Provinsi,Sulawesi Tengah,2019,83.87,28.78,112.65,gram/kap/hari,Angka tetap
+34,Provinsi,Sulawesi Selatan,2019,77.2,26.55,103.75,gram/kap/hari,Angka tetap
+35,Provinsi,Sulawesi Tenggara,2019,61.33,32.43,93.76,gram/kap/hari,Angka tetap
+36,Provinsi,Gorontalo,2019,49.53,56.44,105.97,gram/kap/hari,Angka tetap
+37,Provinsi,Sulawesi Barat,2019,76.82,21,97.82,gram/kap/hari,Angka tetap
+38,Provinsi,Maluku,2019,41.36,86.08,127.44,gram/kap/hari,Angka tetap
+39,Provinsi,Maluku Utara,2019,40.22,60.38,100.6,gram/kap/hari,Angka tetap
+40,Provinsi,Papua Barat,2019,20.76,51.91,72.67,gram/kap/hari,Angka tetap
+41,Provinsi,Papua,2019,40.11,60.2,100.31,gram/kap/hari,Angka tetap
+42,Provinsi,Papua Tengah,2019,,,0,gram/kap/hari,Angka tetap
+43,Provinsi,Papua Selatan,2019,,,0,gram/kap/hari,Angka tetap
+44,Provinsi,Papua Pegunungan,2019,,,0,gram/kap/hari,Angka tetap
+45,Provinsi,Papua Barat Daya,2019,,,0,gram/kap/hari,Angka tetap
+46,Provinsi,Aceh,2020,47.4,31.31,78.71,gram/kap/hari,Angka tetap
+47,Provinsi,Sumatera Utara,2020,46.29,23.99,70.28,gram/kap/hari,Angka tetap
+48,Provinsi,Sumatera Barat,2020,56.85,34.61,91.46,gram/kap/hari,Angka tetap
+49,Provinsi,Riau,2020,54.81,23.98,78.79,gram/kap/hari,Angka tetap
+50,Provinsi,Jambi,2020,50.31,22.04,72.35,gram/kap/hari,Angka tetap
+51,Provinsi,Sumatera Selatan,2020,43.51,32.87,76.38,gram/kap/hari,Angka tetap
+52,Provinsi,Bengkulu,2020,44.6,45.06,89.66,gram/kap/hari,Angka tetap
+53,Provinsi,Lampung,2020,59.58,22.48,82.06,gram/kap/hari,Angka tetap
+54,Provinsi,Kep Bangka Belitung,2020,41.08,33.62,74.7,gram/kap/hari,Angka tetap
+55,Provinsi,Kep Riau,2020,43.23,68.46,111.69,gram/kap/hari,Angka tetap
+56,Provinsi,DKI Jakarta,2020,51.21,244.42,295.63,gram/kap/hari,Angka tetap
+57,Provinsi,Jawa Barat,2020,69.14,18.83,87.97,gram/kap/hari,Angka tetap
+58,Provinsi,Jawa Tengah,2020,98.77,15.69,114.46,gram/kap/hari,Angka tetap
+59,Provinsi,Jawa Timur,2020,50.76,15.29,66.05,gram/kap/hari,Angka tetap
+60,Provinsi,DI Yogyakarta,2020,77.47,25.87,103.34,gram/kap/hari,Angka tetap
+61,Provinsi,Banten,2020,61.49,24.2,85.69,gram/kap/hari,Angka tetap
+62,Provinsi,Bali,2020,39.7,23.4,63.1,gram/kap/hari,Angka tetap
+63,Provinsi,NTB,2020,108.42,32.33,140.75,gram/kap/hari,Angka tetap
+64,Provinsi,NTT,2020,68.42,12.17,80.59,gram/kap/hari,Angka tetap
+65,Provinsi,Kalimantan Barat,2020,45.92,18.45,64.37,gram/kap/hari,Angka tetap
+66,Provinsi,Kalimantan Tengah,2020,60.86,52.35,113.21,gram/kap/hari,Angka tetap
+67,Provinsi,Kalimantan Selatan,2020,48.72,28.76,77.48,gram/kap/hari,Angka tetap
+68,Provinsi,Kalimantan Timur,2020,57.38,108.86,166.24,gram/kap/hari,Angka tetap
+69,Provinsi,Kalimantan Utara,2020,55.31,40.75,96.06,gram/kap/hari,Angka tetap
+70,Provinsi,Sulawesi Utara,2020,46.44,76.47,122.91,gram/kap/hari,Angka tetap
+71,Provinsi,Sulawesi Tengah,2020,80.38,24.34,104.72,gram/kap/hari,Angka tetap
+72,Provinsi,Sulawesi Selatan,2020,69.91,70.01,139.92,gram/kap/hari,Angka tetap
+73,Provinsi,Sulawesi Tenggara,2020,54.77,28.49,83.26,gram/kap/hari,Angka tetap
+74,Provinsi,Gorontalo,2020,48.53,70.99,119.52,gram/kap/hari,Angka tetap
+75,Provinsi,Sulawesi Barat,2020,34.4,48.17,82.57,gram/kap/hari,Angka tetap
+76,Provinsi,Maluku,2020,28.75,75.5,104.25,gram/kap/hari,Angka tetap
+77,Provinsi,Maluku Utara,2020,73.12,64.54,137.66,gram/kap/hari,Angka tetap
+78,Provinsi,Papua Barat,2020,20.76,51.91,72.67,gram/kap/hari,Angka tetap
+79,Provinsi,Papua,2020,41.28,62.86,104.14,gram/kap/hari,Angka tetap
+80,Provinsi,Papua Tengah,2020,,,0,gram/kap/hari,Angka tetap
+81,Provinsi,Papua Selatan,2020,,,0,gram/kap/hari,Angka tetap
+82,Provinsi,Papua Pegunungan,2020,,,0,gram/kap/hari,Angka tetap
+83,Provinsi,Papua Barat Daya,2020,,,0,gram/kap/hari,Angka tetap
+84,Provinsi,Aceh,2021,65.82,31.31,97.13,gram/kap/hari,Angka tetap
+85,Provinsi,Sumatera Utara,2021,61.3,19.48,80.78,gram/kap/hari,Angka tetap
+86,Provinsi,Sumatera Barat,2021,50.91,119.09,170,gram/kap/hari,Angka tetap
+87,Provinsi,Riau,2021,66.48,24.64,91.12,gram/kap/hari,Angka tetap
+88,Provinsi,Jambi,2021,43.81,25.24,69.05,gram/kap/hari,Angka tetap
+89,Provinsi,Sumatera Selatan,2021,44.09,34.33,78.42,gram/kap/hari,Angka tetap
+90,Provinsi,Bengkulu,2021,47.29,47.76,95.05,gram/kap/hari,Angka tetap
+91,Provinsi,Lampung,2021,47.83,24.46,72.29,gram/kap/hari,Angka tetap
+92,Provinsi,Kep Bangka Belitung,2021,52.92,42.64,95.56,gram/kap/hari,Angka tetap
+93,Provinsi,Kep Riau,2021,41.41,52.92,94.33,gram/kap/hari,Angka tetap
+94,Provinsi,DKI Jakarta,2021,51.45,25.48,76.93,gram/kap/hari,Angka tetap
+95,Provinsi,Jawa Barat,2021,57.24,28.89,86.13,gram/kap/hari,Angka tetap
+96,Provinsi,Jawa Tengah,2021,75,13,88,gram/kap/hari,Angka tetap
+97,Provinsi,Jawa Timur,2021,79.01,19.3,98.3,gram/kap/hari,Angka tetap
+98,Provinsi,DI Yogyakarta,2021,79.18,28.87,108.05,gram/kap/hari,Angka tetap
+99,Provinsi,Banten,2021,51.56,24.86,76.43,gram/kap/hari,Angka tetap
+100,Provinsi,Bali,2021,43.18,21.13,64.31,gram/kap/hari,Angka tetap
+101,Provinsi,NTB,2021,80.83,2.52,83.35,gram/kap/hari,Angka tetap
+102,Provinsi,NTT,2021,62.31,7.23,69.54,gram/kap/hari,Angka tetap
+103,Provinsi,Kalimantan Barat,2021,46.13,22.76,68.89,gram/kap/hari,Angka tetap
+104,Provinsi,Kalimantan Tengah,2021,60.86,52.35,113.21,gram/kap/hari,Angka tetap
+105,Provinsi,Kalimantan Selatan,2021,93.51,15.18,108.69,gram/kap/hari,Angka tetap
+106,Provinsi,Kalimantan Timur,2021,46.88,60.29,107.17,gram/kap/hari,Angka tetap
+107,Provinsi,Kalimantan Utara,2021,63.48,35.77,99.25,gram/kap/hari,Angka tetap
+108,Provinsi,Sulawesi Utara,2021,52.18,70.72,122.9,gram/kap/hari,Angka tetap
+109,Provinsi,Sulawesi Tengah,2021,78.46,21.66,100.12,gram/kap/hari,Angka tetap
+110,Provinsi,Sulawesi Selatan,2021,65.04,21.12,86.16,gram/kap/hari,Angka tetap
+111,Provinsi,Sulawesi Tenggara,2021,48.11,30.92,79.03,gram/kap/hari,Angka tetap
+112,Provinsi,Gorontalo,2021,58.3,28.64,86.94,gram/kap/hari,Angka tetap
+113,Provinsi,Sulawesi Barat,2021,62.35,13.92,76.27,gram/kap/hari,Angka tetap
+114,Provinsi,Maluku,2021,34.18,177.28,211.46,gram/kap/hari,Angka tetap
+115,Provinsi,Maluku Utara,2021,42.23,62,104.23,gram/kap/hari,Angka tetap
+116,Provinsi,Papua Barat,2021,44.98,44.13,89.11,gram/kap/hari,Angka tetap
+117,Provinsi,Papua,2021,42.87,63.85,106.72,gram/kap/hari,Angka tetap
+118,Provinsi,Papua Tengah,2021,,,0,gram/kap/hari,Angka tetap
+119,Provinsi,Papua Selatan,2021,,,0,gram/kap/hari,Angka tetap
+120,Provinsi,Papua Pegunungan,2021,,,0,gram/kap/hari,Angka tetap
+121,Provinsi,Papua Barat Daya,2021,,,0,gram/kap/hari,Angka tetap
+122,Provinsi,Aceh,2022,59.41,26.98,86.39,gram/kap/hari,Angka sementara
+123,Provinsi,Sumatera Utara,2022,56.93,24.9,81.83,gram/kap/hari,Angka sementara
+124,Provinsi,Sumatera Barat,2022,61.31,37.23,98.54,gram/kap/hari,Angka sementara
+125,Provinsi,Riau,2022,45.06,24.69,69.75,gram/kap/hari,Angka sementara
+126,Provinsi,Jambi,2022,46.35,19.8,66.15,gram/kap/hari,Angka sementara
+127,Provinsi,Sumatera Selatan,2022,76.42,23.79,100.21,gram/kap/hari,Angka sementara
+128,Provinsi,Bengkulu,2022,36.96,84.78,121.74,gram/kap/hari,Angka sementara
+129,Provinsi,Lampung,2022,55.42,28.02,83.44,gram/kap/hari,Angka sementara
+130,Provinsi,Kep Bangka Belitung,2022,56.76,61.95,118.71,gram/kap/hari,Angka sementara
+131,Provinsi,Kep Riau,2022,41.41,52.92,94.33,gram/kap/hari,Angka sementara
+132,Provinsi,DKI Jakarta,2022,35.26,25.01,60.27,gram/kap/hari,Angka sementara
+133,Provinsi,Jawa Barat,2022,53.24,29.08,82.32,gram/kap/hari,Angka sementara
+134,Provinsi,Jawa Tengah,2022,83.73,11.84,95.57,gram/kap/hari,Angka sementara
+135,Provinsi,Jawa Timur,2022,79.01,19.29,98.3,gram/kap/hari,Angka sementara
+136,Provinsi,DI Yogyakarta,2022,76.47,27.26,103.73,gram/kap/hari,Angka sementara
+137,Provinsi,Banten,2022,56.46,27.99,84.45,gram/kap/hari,Angka sementara
+138,Provinsi,Bali,2022,40.86,22.41,63.27,gram/kap/hari,Angka sementara
+139,Provinsi,NTB,2022,47.3,94.7,142,gram/kap/hari,Angka sementara
+140,Provinsi,NTT,2022,59.04,6.2,65.24,gram/kap/hari,Angka sementara
+141,Provinsi,Kalimantan Barat,2022,45.82,27.12,72.94,gram/kap/hari,Angka sementara
+142,Provinsi,Kalimantan Tengah,2022,40.52,47.48,88,gram/kap/hari,Angka sementara
+143,Provinsi,Kalimantan Selatan,2022,82.22,32.41,114.63,gram/kap/hari,Angka sementara
+144,Provinsi,Kalimantan Timur,2022,48.11,57.79,105.9,gram/kap/hari,Angka sementara
+145,Provinsi,Kalimantan Utara,2022,43.08,28.22,71.3,gram/kap/hari,Angka sementara
+146,Provinsi,Sulawesi Utara,2022,49.55,45.34,94.89,gram/kap/hari,Angka sementara
+147,Provinsi,Sulawesi Tengah,2022,73.39,45.34,118.73,gram/kap/hari,Angka sementara
+148,Provinsi,Sulawesi Selatan,2022,80.56,91.08,171.64,gram/kap/hari,Angka sementara
+149,Provinsi,Sulawesi Tenggara,2022,46.37,29.33,75.7,gram/kap/hari,Angka sementara
+150,Provinsi,Gorontalo,2022,69.31,153.94,223.25,gram/kap/hari,Angka sementara
+151,Provinsi,Sulawesi Barat,2022,60.89,58.82,119.71,gram/kap/hari,Angka sementara
+152,Provinsi,Maluku,2022,39.6,90.97,130.57,gram/kap/hari,Angka sementara
+153,Provinsi,Maluku Utara,2022,41.91,72.32,114.23,gram/kap/hari,Angka sementara
+154,Provinsi,Papua Barat,2022,46.56,46.41,92.97,gram/kap/hari,Angka sementara
+155,Provinsi,Papua,2022,33.84,22.41,56.25,gram/kap/hari,Angka sementara
+156,Provinsi,Papua Tengah,2022,,,0,gram/kap/hari,Angka sementara
+157,Provinsi,Papua Selatan,2022,,,0,gram/kap/hari,Angka sementara
+158,Provinsi,Papua Pegunungan,2022,,,0,gram/kap/hari,Angka sementara
+159,Provinsi,Papua Barat Daya,2022,,,0,gram/kap/hari,Angka sementara
+160,Provinsi,Aceh,2023,63.24,32.52,95.76,gram/kap/hari,Angka sangat sementara
+161,Provinsi,Sumatera Utara,2023,58.9,22.77,81.67,gram/kap/hari,Angka sangat sementara
+162,Provinsi,Sumatera Barat,2023,55.31,36.72,92.03,gram/kap/hari,Angka sangat sementara
+163,Provinsi,Riau,2023,43.53,32.11,75.64,gram/kap/hari,Angka sangat sementara
+164,Provinsi,Jambi,2023,44.59,25.66,70.25,gram/kap/hari,Angka sangat sementara
+165,Provinsi,Sumatera Selatan,2023,62.22,31.27,93.49,gram/kap/hari,Angka sangat sementara
+166,Provinsi,Bengkulu,2023,41.86,41.59,83.45,gram/kap/hari,Angka sangat sementara
+167,Provinsi,Lampung,2023,58.39,28.43,86.82,gram/kap/hari,Angka sangat sementara
+168,Provinsi,Kep Bangka Belitung,2023,60.05,47.78,107.83,gram/kap/hari,Angka sangat sementara
+169,Provinsi,Kep Riau,2023,47.09,56.24,103.33,gram/kap/hari,Angka sangat sementara
+170,Provinsi,DKI Jakarta,2023,57.1,63.85,120.95,gram/kap/hari,Angka sangat sementara
+171,Provinsi,Jawa Barat,2023,54.12,29.59,83.71,gram/kap/hari,Angka sangat sementara
+172,Provinsi,Jawa Tengah,2023,76.37,11.01,87.38,gram/kap/hari,Angka sangat sementara
+173,Provinsi,Jawa Timur,2023,98.49,18.21,116.7,gram/kap/hari,Angka sangat sementara
+174,Provinsi,DI Yogyakarta,2023,76.55,27.05,103.6,gram/kap/hari,Angka sangat sementara
+175,Provinsi,Banten,2023,56.46,27.99,84.45,gram/kap/hari,Angka sangat sementara
+176,Provinsi,Bali,2023,39.62,32.39,72.01,gram/kap/hari,Angka sangat sementara
+177,Provinsi,NTB,2023,81.77,41.57,123.34,gram/kap/hari,Angka sangat sementara
+178,Provinsi,NTT,2023,57.94,11.67,69.61,gram/kap/hari,Angka sangat sementara
+179,Provinsi,Kalimantan Barat,2023,43.82,23.7,67.52,gram/kap/hari,Angka sangat sementara
+180,Provinsi,Kalimantan Tengah,2023,43.69,75.58,119.27,gram/kap/hari,Angka sangat sementara
+181,Provinsi,Kalimantan Selatan,2023,49.24,29.92,79.16,gram/kap/hari,Angka sangat sementara
+182,Provinsi,Kalimantan Timur,2023,50.41,69.56,119.97,gram/kap/hari,Angka sangat sementara
+183,Provinsi,Kalimantan Utara,2023,46.47,29.94,76.41,gram/kap/hari,Angka sangat sementara
+184,Provinsi,Sulawesi Utara,2023,49.55,45.34,94.89,gram/kap/hari,Angka sangat sementara
+185,Provinsi,Sulawesi Tengah,2023,65.23,22.09,87.32,gram/kap/hari,Angka sangat sementara
+186,Provinsi,Sulawesi Selatan,2023,130.06,21.84,151.9,gram/kap/hari,Angka sangat sementara
+187,Provinsi,Sulawesi Tenggara,2023,42.54,22.01,64.55,gram/kap/hari,Angka sangat sementara
+188,Provinsi,Gorontalo,2023,68.94,152.55,221.49,gram/kap/hari,Angka sangat sementara
+189,Provinsi,Sulawesi Barat,2023,75.07,38.65,113.72,gram/kap/hari,Angka sangat sementara
+190,Provinsi,Maluku,2023,48.4,82.83,131.23,gram/kap/hari,Angka sangat sementara
+191,Provinsi,Maluku Utara,2023,47.46,53.96,101.42,gram/kap/hari,Angka sangat sementara
+192,Provinsi,Papua Barat,2023,48.14,46,94.14,gram/kap/hari,Angka sangat sementara
+193,Provinsi,Papua,2023,43.15,31.08,74.23,gram/kap/hari,Angka sangat sementara
+194,Provinsi,Papua Tengah,2023,,,0,gram/kap/hari,Angka sangat sementara
+195,Provinsi,Papua Selatan,2023,,,0,gram/kap/hari,Angka sangat sementara
+196,Provinsi,Papua Pegunungan,2023,,,0,gram/kap/hari,Angka sangat sementara
+197,Provinsi,Papua Barat Daya,2023,,,0,gram/kap/hari,Angka sangat sementara
